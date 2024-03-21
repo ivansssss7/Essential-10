@@ -1,0 +1,15 @@
+D:\dotnet\homeworks\Essential-10\Essential-10_1\bin\Debug\net6.0\Essential-10_1.exe
+D:\dotnet\homeworks\Essential-10\Essential-10_1\bin\Debug\net6.0\Essential-10_1.deps.json
+D:\dotnet\homeworks\Essential-10\Essential-10_1\bin\Debug\net6.0\Essential-10_1.runtimeconfig.json
+D:\dotnet\homeworks\Essential-10\Essential-10_1\bin\Debug\net6.0\Essential-10_1.dll
+D:\dotnet\homeworks\Essential-10\Essential-10_1\bin\Debug\net6.0\Essential-10_1.pdb
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\Essential-10_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\Essential-10_1.AssemblyInfoInputs.cache
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\Essential-10_1.AssemblyInfo.cs
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\Essential-10_1.csproj.CoreCompileInputs.cache
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\Essential-10_1.sourcelink.json
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\Essential-10_1.dll
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\refint\Essential-10_1.dll
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\Essential-10_1.pdb
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\Essential-10_1.genruntimeconfig.cache
+D:\dotnet\homeworks\Essential-10\Essential-10_1\obj\Debug\net6.0\ref\Essential-10_1.dll

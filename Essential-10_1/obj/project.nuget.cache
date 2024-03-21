@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RpLeVezPDLg/7jt2On4gKxzr7QmgYNm6smkVKglABVnO77uAMjmO5jqUtnIpXhMrPKJ3YGI+lBqrLr+cUhg3fQ==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet\\homeworks\\Essential-10\\Essential-10_1\\Essential-10_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

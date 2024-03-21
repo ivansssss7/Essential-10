@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Essential-10_1/1.0.0": {
+        "runtime": {
+          "Essential-10_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Essential-10_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
